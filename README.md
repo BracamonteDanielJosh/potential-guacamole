@@ -22,5 +22,6 @@ This project implements a simple Ethereum smart contract for managing an account
 **Authors**
 - Bracamonte, Daniel Josh
 - 61800171@ntc.edu.ph
+- 
 **License**
 This project is licensed under the MIT License - see the LICENSE.md file for details.
