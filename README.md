@@ -1,5 +1,6 @@
 **Project Title**
 Frontend
+
 **Description**
 This project implements a simple Ethereum smart contract for managing an account on the blockchain. It allows users to deposit and withdraw funds from the account securely. The smart contract keeps track of account balances, deposits, and withdrawals using Solidity programming language.
 
